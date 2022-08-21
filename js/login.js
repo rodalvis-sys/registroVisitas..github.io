@@ -8,7 +8,7 @@ function entrar() {
     passw = document.getElementById("passw").value;
 
     if (user == "20198225" && passw == "8225") {
-        window.location = "index.html";
+        window.location = "registro.html";
     }
     else {
         alert("Algun dato incorrecto")
