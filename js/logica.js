@@ -154,3 +154,10 @@ const Actualizar = (pr) =>{
         }
     })
     
+    function salir() {
+
+        if(confirm("Seguro desea salir")){
+            window.location = "login.html";
+        }
+        
+    }

@@ -37,6 +37,18 @@ table, td, th{
     color: white;
     
 }
+
+#salir{
+    cursor: pointer;
+    background: linear-gradient(black, black);
+    padding: 7px;
+    border-radius: 10px;
+    border: black 3px solid;
+    color: white;
+    position: absolute;
+    left: 96%;
+    
+}
 #botonMostrarFormulario label{
     cursor: pointer;
     background: linear-gradient(black, black);
